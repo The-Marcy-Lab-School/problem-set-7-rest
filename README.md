@@ -34,5 +34,5 @@ Answer the following questions directly in this README. Be sure that your answer
 3. **You've been hired to do some work for Discogs, an application to help users track a vinyl record collection. A `Collection` has many `Albums`, and an `Album` has many collections via a join table called `Ownership`. You've been asked to build a feature that allows to remove an album from their collection. What HTTP Method/URL/controller action would you use to implement this feature?**
 <br>
 
-4. **Choose your favorite web application. What's an example of a one-to-many and many-to-many relationship that might exist within the app?**
+4. **Choose your favorite web application. What's an example of a one-to-many relationship that might exist within the app? What's an example of a many-to-many relationship that might exist within the app?**
 <br>
