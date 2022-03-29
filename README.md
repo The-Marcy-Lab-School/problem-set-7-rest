@@ -1,7 +1,7 @@
 # Schema Design and Building RESTful APIs: ToDo List
 
 ### Directions
-1. Answer the following questions directly in this README. Be sure that your answers are well-formatted. 
+Answer the following questions directly in this README. Be sure that your answers are well-formatted. 
 
 ## Short Response 
 
